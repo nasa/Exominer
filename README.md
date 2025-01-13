@@ -78,7 +78,7 @@ Research Center (NASA ARC).
 
 1 - NASA Ames Research Center (NASA ARC)\
 2 - Universities Space Research Association (USRA)\
-3 - The SETI Institute\
+3 - The SETI Institute
 
 ## Acknowledgements
 
