@@ -32,7 +32,7 @@ The main goals of the `ExoMiner` pipeline are:
 
 - ExoMiner++ (TESS paper, January 2025)  <span style="color:red">**CURRENT**</span>
 ![ExoMiner++ architecture - TESS paper.](others/images/exominer_architecture.png)
-- ExoMiner (Kepler Multiplicity Boost paper, June 2023)
+- ExoMiner v1.2 (Kepler Multiplicity Boost paper, June 2023)
 ![ExoMiner architecture - Kepler Multiplicity Boost paper.](others/images/exominer_kepler_multiplicity_boost.jpg)
 - ExoMiner (Kepler paper, February 2022)
 ![ExoMiner architecture - Kepler paper.](others/images/exominer_kepler-paper.jpg)
@@ -51,11 +51,9 @@ All data used in this project are publicly available. Generally, the data used c
 ## References
 
 For more detailed information see the following publications:
-- ExoMiner 2021
-  paper ["ExoMiner: A Highly Accurate and Explainable Deep Learning Classifier that Validates 301 New Exoplanets"](https://arxiv.org/abs/2111.10009)
-  , published 2022 February 17 in
-  the [Astrophysical Journal, Volume 926, Number 2](https://iopscience.iop/articl/10.3847/1538-4357/ac4399/).
-- ExoMiner w/ Multiplicity Boost, published 2023 June 26 in the [Astronomical Journal, Volume 166, Number 1](https://iopscience.iop.org/article/10.3847/1538-3881/acd344/)
+- ExoMiner Kepler paper, published 2022 February in ["ExoMiner: A Highly Accurate and Explainable Deep Learning Classifier that Validates 301 New Exoplanets"](https://arxiv.org/abs/2111.10009)
+, published 2022 February 17 in the [Astrophysical Journal, Volume 926, Number 2](https://iopscience.iop/articl/10.3847/1538-4357/ac4399/).
+- ExoMiner Kepler w/ Multiplicity Boost, published 2023 June 26 in [Astronomical Journal, Volume 166, Number 1](https://iopscience.iop.org/article/10.3847/1538-3881/acd344/)
 
 ## Contacts
 - Hamed Valizadegan (PI, USRA contractor),  hamed.valizadegan@nasa.gov
