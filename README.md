@@ -76,10 +76,6 @@ Research Center (NASA ARC).
     - Doug Caldwell<sup>1,3</sup>
     - Joseph Twicken<sup>1,3</sup>
 
-  [//]: # (    - Jeff Smith<sup>1,3</sup>)
-
-[//]: # (    - Stephen Bryson<sup>1</sup>)
-
 1 - NASA Ames Research Center (NASA ARC)\
 2 - Universities Space Research Association (USRA)\
 3 - The SETI Institute\
