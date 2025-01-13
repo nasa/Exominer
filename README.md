@@ -28,10 +28,14 @@ The main goals of the `ExoMiner` pipeline are:
 2. Create vetting catalogs based on results produced for TESS SPOC Threshold Crossing Events (TCEs).
 3. Validate new exoplanets from TESS.
 
-## Current Model Architecture
+## Model Architectures
 
-- ExoMiner++ (January 2025)
-![ExoMiner architecture.](others/images/exominer_architecture.png)
+- ExoMiner++ (TESS paper, January 2025)  <span style="color:red">**current**</span>.
+![ExoMiner++ architecture - TESS paper.](others/images/exominer_architecture.png)
+- ExoMiner (Kepler Multiplicity Boost paper, June 2023)
+![ExoMiner architecture - Kepler Multiplicity Boost paper.](others/images/exominer_kepler_multiplicity_boost.jpg)
+- ExoMiner (Kepler paper, February 2022)
+![ExoMiner architecture - Kepler paper.](others/images/exominer_kepler-paper.jpg)
 
 ## Data
 
@@ -52,10 +56,6 @@ For more detailed information see the following publications:
   , published 2022 February 17 in
   the [Astrophysical Journal, Volume 926, Number 2](https://iopscience.iop/articl/10.3847/1538-4357/ac4399/).
 - ExoMiner w/ Multiplicity Boost, published 2023 June 26 in the [Astronomical Journal, Volume 166, Number 1](https://iopscience.iop.org/article/10.3847/1538-3881/acd344/)
-
-## Release Notes
-First release of ExoMiner (v1.0). Expected features to be added in subsequent releases:
-- TBD.
 
 ## Contacts
 - Hamed Valizadegan (PI, USRA contractor),  hamed.valizadegan@nasa.gov
