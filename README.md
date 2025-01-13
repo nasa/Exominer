@@ -1,7 +1,7 @@
 # ExoMiner
 
 <div style="text-align:center;font-size:20px">
-<span style="color:red">[Release Date: TBD]</span>.
+<span style="color:red">[Release Date: TBD]</span>
 </div>
 
 [//]: # (![ExoMiner Logo.]&#40;/others/images/exominer_logo.png&#41;)
@@ -30,7 +30,7 @@ The main goals of the `ExoMiner` pipeline are:
 
 ## Model Architectures
 
-- ExoMiner++ (TESS paper, January 2025)  <span style="color:red">**current**</span>.
+- ExoMiner++ (TESS paper, January 2025)  <span style="color:red">**CURRENT**</span>
 ![ExoMiner++ architecture - TESS paper.](others/images/exominer_architecture.png)
 - ExoMiner (Kepler Multiplicity Boost paper, June 2023)
 ![ExoMiner architecture - Kepler Multiplicity Boost paper.](others/images/exominer_kepler_multiplicity_boost.jpg)
