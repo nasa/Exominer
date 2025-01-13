@@ -59,7 +59,7 @@ First release of ExoMiner (v1.0). Expected features to be added in subsequent re
 
 ## Contacts
 - Hamed Valizadegan (PI, USRA contractor),  hamed.valizadegan@nasa.gov
-- Miguel Martinho (Sub-I, USRA contractor), miguel.martinho@nasa.gov
+- Miguel Martinho (Co-I, USRA contractor), miguel.martinho@nasa.gov
 - Nikunj Oza (Group Lead, NASA ARC civil servant), nikunj.c.oza@nasa.gov
 
 ## Credits
@@ -72,13 +72,17 @@ Research Center (NASA ARC).
   - Miguel Martinho<sup>1,2</sup>, miguel.martinho@nasa.gov
   
 - Collaborators
+    - Jon Jenkins<sup>1</sup>
     - Doug Caldwell<sup>1,3</sup>
-    - Jon Jenkins<sup>1,3</sup>
     - Joseph Twicken<sup>1,3</sup>
 
   [//]: # (    - Jeff Smith<sup>1,3</sup>)
 
 [//]: # (    - Stephen Bryson<sup>1</sup>)
+
+1 - NASA Ames Research Center (NASA ARC)\
+2 - Universities Space Research Association (USRA)\
+3 - The SETI Institute\
 
 ## Acknowledgements
 
