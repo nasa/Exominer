@@ -51,7 +51,9 @@ Center (SPOC) pipeline publicly available in archives such as the [MAST](https:/
 ## References
 For more detailed information see the following publications:
 - ExoMiner Kepler w/ Multiplicity Boost, published 2023 June 26 in [Astronomical Journal, Volume 166, Number 1](https://iopscience.iop.org/article/10.3847/1538-3881/acd344/)
+  - List of validated exoplanets: [link](https://content.cld.iop.org/journals/1538-3881/166/1/28/revision1/ajacd344t9_mrt.txt)
 - ExoMiner Kepler paper, published 2022 February 17 in [Astrophysical Journal, Volume 926, Number 2](https://iopscience.iop.org/article/10.3847/1538-4357/ac4399/meta).
+  - List of validated exoplanets: [link](https://content.cld.iop.org/journals/0004-637X/926/2/120/revision1/apjac4399t14_mrt.txt)
 
 ## Contacts
 - Hamed Valizadegan (PI, USRA contractor),  hamed.valizadegan@nasa.gov
