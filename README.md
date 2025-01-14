@@ -30,7 +30,7 @@ The main goals of the `ExoMiner` pipeline are:
 
 ## Model Architectures
 
-- ExoMiner++ (TESS paper [under preparation], January 2025)  <span style="color:red">**CURRENT**</span>
+- ExoMiner++ (TESS [under preparation], January 2025)  <span style="color:red">**CURRENT**</span>
 ![ExoMiner++ architecture - TESS paper.](others/images/exominer_architecture.png)
 - ExoMiner v1.2 (Kepler Multiplicity Boost paper, June 2023)
 ![ExoMiner architecture - Kepler Multiplicity Boost paper.](others/images/exominer_kepler_multiplicity_boost.jpg)
